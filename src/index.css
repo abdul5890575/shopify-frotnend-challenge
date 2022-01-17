@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  padding: 3em;
+}
+
+img {
+  max-height: 15em;
+}
+
+.card {
+  height: 100%;
+}
+.spacing {
+  margin: .5em;
+}
+
+.heading {
+  text-align: center;
+  font-family: cursive;
+  font-size: 70px;
+}
+
+.footer {
+  display: flex;
+}
+
+.likes {
+  font-size: 2em;
+  margin-left: 1em;
+}
