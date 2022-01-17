@@ -15,4 +15,4 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/abdul5890575/shopify-frotnend-challenge/blob/master/src/Screen%20Shot%202022-01-17%20at%202.32.23%20PM.png?raw=true)
